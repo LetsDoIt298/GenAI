@@ -17,8 +17,7 @@ Supervised Fine-Tuning (SFT)
 Reinforcement Learning through Human Feedback (RLHF)
 ![image](https://github.com/LetsDoIt298/GenAI/assets/90137904/0f3fad9e-811f-4e65-877e-c286ebfcccf0)
 
-# Reference used: 
-[here](https://www.linkedin.com/pulse/discover-how-chatgpt-istrained-pradeep-menon/)
+# [Reference used:](https://www.linkedin.com/pulse/discover-how-chatgpt-istrained-pradeep-menon/)
 
 
 
