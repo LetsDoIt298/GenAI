@@ -14,7 +14,12 @@ Generative Pre-Training
 Supervised Fine-Tuning (SFT)
 ![image](https://github.com/LetsDoIt298/GenAI/assets/90137904/4a452244-a396-47ff-b5d5-1d2a671792fa)
 
-Reinforcement Learning through Human Feedback (RLHF)![image](https://github.com/LetsDoIt298/GenAI/assets/90137904/cca81a7d-346a-44d3-99e4-7c247f66e783)
+Reinforcement Learning through Human Feedback (RLHF)
+![image](https://github.com/LetsDoIt298/GenAI/assets/90137904/0f3fad9e-811f-4e65-877e-c286ebfcccf0)
+
+# Reference used: 
+[here](https://www.linkedin.com/pulse/discover-how-chatgpt-istrained-pradeep-menon/)
+
 
 
 
